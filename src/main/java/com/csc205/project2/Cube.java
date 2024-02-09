@@ -22,6 +22,7 @@ Here are the additional methods:
 
  */
 
+// A class representing the Three Dimensional Shape, Cube
 public class Cube extends Shape {
     private double width;
 

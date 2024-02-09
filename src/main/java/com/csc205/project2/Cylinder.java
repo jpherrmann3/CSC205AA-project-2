@@ -20,6 +20,7 @@ Methods:
 - toString() -> string. Using StringBuilder. Make sure to include surfaceArea and volume in the toString.
   */
 
+// A class for the Three Dimensional Shape, Cylinder
 public class Cylinder extends Shape {
     private double height;
     private double radius;

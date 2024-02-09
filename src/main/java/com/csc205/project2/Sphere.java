@@ -17,24 +17,29 @@ Methods:
 
  */
 
+ // A Class for the Three Dimensional Shape, Sphere
 public class Sphere extends Shape{
 
     private double radius;
 
+    // Default constructor
     public Sphere() {
         super();
         this.radius = 0.0;
     }
 
+    // Constructor with radius argument
     public Sphere(double radius) {
         super();
         this.radius = radius;
     }
 
+    // Getter for radius
     public double getRadius() {
         return radius;
     }
 
+    // Setter for radius
     public void setRadius(double radius) {
         this.radius = radius;
     }
