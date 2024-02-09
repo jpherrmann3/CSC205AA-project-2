@@ -4,6 +4,9 @@ import org.junit.jupiter.api.Test;
 import com.csc205.project2.Cube;
 import static org.junit.jupiter.api.Assertions.*;
 
+// Chat GPT prompts
+/*Let's create test case for the Cube class as well */
+
 public class CubeTest {
 
     @Test

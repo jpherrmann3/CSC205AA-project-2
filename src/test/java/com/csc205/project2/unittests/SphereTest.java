@@ -6,6 +6,10 @@ import com.csc205.project2.Sphere;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+// Chat GPT prompts
+/*
+ * Lets also write some tests for the project. First, some tests for Sphere
+ */
 
 public class SphereTest {
 

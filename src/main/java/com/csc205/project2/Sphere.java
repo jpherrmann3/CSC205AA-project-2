@@ -1,5 +1,22 @@
 package com.csc205.project2;
 
+/* Chat GPT was asked about this class as well
+
+Let's move onto Sphere. Remember that Sphere will inherit Shape as well.
+
+Fields:
+- radius: is a double
+
+Methods:
+- default constructor (no arguements)
+- constructor with double as argument.
+- get and set Radius
+- surfaceArea() returns double
+- toString() method overrides the default implementation to provide a meaningful string representation of the cube using a StringBuilder.
+- volume() returns double
+
+ */
+
 public class Sphere extends Shape{
 
     private double radius;

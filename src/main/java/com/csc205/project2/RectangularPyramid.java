@@ -1,5 +1,15 @@
 package com.csc205.project2;
 
+/*
+ * Chat GPT Generated the Class
+ * https://chat.openai.com/c/81eb7348-ab9a-470e-816f-187c14939719
+ */
+
+/*
+Following the same pattern, create a class for RectangularPyramid.
+Make sure to include relevant fields and methods that would be consistent with the other classes we have used
+ */
+
 public class RectangularPyramid extends Shape {
     private double length;
     private double width;

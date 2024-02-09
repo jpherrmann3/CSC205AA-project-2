@@ -1,5 +1,27 @@
 package com.csc205.project2;
 
+/*
+ * Chat GPT Generated the Class
+ * https://chat.openai.com/c/81eb7348-ab9a-470e-816f-187c14939719
+ */
+
+/*
+Let's now do Cube.
+
+there will be one field: width. It is a double.
+
+It must implement a default constructor, and a constructor taking a double as an argument.
+
+Here are the additional methods:
+
+- getWidth() returns double
+- setWidth(double) returns void
+- surfaceArea() returns double
+- toString() returns overwrites default toString using stringBuilder.
+- volume() returns double
+
+ */
+
 public class Cube extends Shape {
     private double width;
 

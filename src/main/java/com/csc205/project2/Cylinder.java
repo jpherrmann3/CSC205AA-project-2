@@ -1,4 +1,24 @@
 package com.csc205.project2;
+/*
+ * Chat GPT Generated the Class
+ * https://chat.openai.com/c/81eb7348-ab9a-470e-816f-187c14939719
+ */
+
+ /*
+Let's move onto Cylinder. Again, cylinder will inherit from Shape.
+
+Fields:
+- height(double)
+- radius(double)
+
+Methods:
+- Cylinder()
+- Cylinder(double, double)
+- getters and setters for height and radius
+- surfaceArea() -> double
+- volume() -> double
+- toString() -> string. Using StringBuilder. Make sure to include surfaceArea and volume in the toString.
+  */
 
 public class Cylinder extends Shape {
     private double height;
