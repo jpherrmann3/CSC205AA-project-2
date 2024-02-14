@@ -11,7 +11,7 @@ Now lets move onto `Shape`. It will implement ThreeDimensionalShape and also add
 
  */
 
-public class Shape implements ThreeDimensionalShape {
+public abstract class Shape implements ThreeDimensionalShape {
 
     // Default constructor
     public Shape() {
