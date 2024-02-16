@@ -19,15 +19,10 @@ public abstract class Shape implements ThreeDimensionalShape {
     }
 
     @Override
-    public double surfaceArea() {
-        // Implementation to be provided by subclasses
-        return 0; // Placeholder value
-    }
+    public abstract double surfaceArea();
 
     @Override
-    public double volume() {
-        // Implementation to be provided by subclasses
-        return 0; // Placeholder value
-    }
+    public abstract double volume();
+
 }
 
